@@ -4,73 +4,26 @@ title = "Homepage"
 theme = "prologue"
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
+  name = "Wanderland Travelers"
+  description = "Adventure. Travel. Open Spaces"
   copyright = "Untitled."
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
+  medium = "youtube"
+  icon = "youtube"
+  link = "https://youtube.com/wanderlandtravelers"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://facebook.com/wanderlandtravelers"
 
 [[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://instagram.com/wanderlandtravelers"
 
 [[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
-
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "#"
-
-# Portfolio column one
-
-[[params.portfolio1]]
-  title = "Ipsum Feugiat"
-  alt = ""
-  source = "img/pic02.jpg"
-  url = "#"
-
-[[params.portfolio1]]
-  title = "Rhoncus Semper"
-  alt = ""
-  source = "img/pic03.jpg"
-  url = "#"
-
-# Portfolio column two
-
-[[params.portfolio2]]
-  title = "Magna Nullam"
-  alt = ""
-  source = "img/pic04.jpg"
-  url = "#"
-
-[[params.portfolio2]]
-  title = "Natoque Vitae"
-  alt = ""
-  source = "img/pic05.jpg"
-  url = "#"
-
-# Portfolio column 3
-
-[[params.portfolio3]]
-  title = "Dolor Penatibus"
-  alt = ""
-  source = "img/pic06.jpg"
-  url = "#"
-
-[[params.portfolio3]]
-  title = "Orci Convallis"
-  alt = ""
-  source = "img/pic07.jpg"
-  url = "#"
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/wanderlandistas"
